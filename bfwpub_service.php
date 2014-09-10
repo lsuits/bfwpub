@@ -62,8 +62,8 @@ class bfwpub_service {
     const BLOCK_NAME = 'block_bfwpub';
     const BLOCK_PATH = '/blocks/bfwpub';
     const GRADE_CATEGORY_NAME = 'bfwpub scores'; // default category
-    const GRADE_ITEM_TYPE = 'blocks';
-    const GRADE_ITEM_MODULE = 'bfwpub';
+    const GRADE_ITEM_TYPE = 'manual';
+    const GRADE_ITEM_MODULE = NULL;
     const GRADE_LOCATION_STR = 'manual';
 
     // data types
